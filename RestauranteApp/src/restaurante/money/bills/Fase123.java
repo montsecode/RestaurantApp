@@ -138,10 +138,7 @@ public class Fase123 {
             }
         }
 
-            // Round of Orders - START
-                //The first question, determines your intention, if you want eat or heat a seat.
-                // In while, determines the questions of Yes/No, and what do you want more eat.
-                // Finally sums all prices accord with your order/selection in a external scope variable.
+            // Ordres
         /**
          * Un cop plens els dos arrays haurem de mostrar-los i preguntar que es vol per menjar, guardarem la
        
