@@ -66,9 +66,9 @@ public class Fase123 {
 		 *haureu de crear un altre variable int per guardar la informació. 
          * 
          */
-        // Fase 3
+        // FASE 3
         /**
-         * FASE 3 (5 punts)
+         *  
  		*Un cop hem acabat de demanar el menjar, haurem de comparar la llista amb l’array que hem fet al
 		*principi. En el cas que la informació que hem introduït a la List coincideixi amb la del array, haurem de
         * sumar el preu del producte demanat; en el cas contrari haurem de mostrar un missatge que digui que el
